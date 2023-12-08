@@ -1,4 +1,4 @@
- # Hi, I'm [@Shamim06](https://github.com/Shamim06) 👋
+ # Hi, I'm [@Shamim06]) 👋
 
 I'm a Solidity developer exploring DeFi protocols and enhancing smart contracts on Ethereum's blockchain.
 
